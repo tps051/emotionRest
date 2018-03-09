@@ -17,19 +17,12 @@ namespace ConsoleEmotionsRESTAPI
 
         private static List<string> imagePaths = new List<string>
         {
-            @"D:\Photo\TrainingSet\IMAG0016.jpg",
-            @"D:\Photo\TrainingSet\IMAG0187.jpg",
-            @"D:\Photo\TrainingSet\IMAG1198.jpg",
-            @"D:\Photo\TrainingSet\IMAG1365.jpg",
-            @"D:\Photo\TrainingSet\IMAG1470.jpg",
-            @"D:\Photo\TrainingSet\IMAG1768.jpg",
-            @"D:\Photo\TrainingSet\IMAG2213.jpg",
-            @"D:\Photo\TrainingSet\IMAG2234.jpg",
-            @"D:\Photo\TrainingSet\IMAG2327.jpg",
-            @"D:\Photo\TrainingSet\IMAG2374.jpg",
-            @"D:\Photo\TrainingSet\IMAG2452.jpg",
-            @"D:\Photo\TrainingSet\IMAG2502.jpg",
-            @"D:\Photo\TrainingSet\IMAG2705.jpg"
+            @"C:\Photo\1.jpg",
+            @"C:\Photo\2.jpg",
+            @"C:\Photo\3.jpg",
+            @"C:\Photo\4.jpg",
+            @"C:\Photo\5.jpg",
+            @"C:\Photo\6.jpg"
         };
 
         private static string result = "";
